@@ -3,13 +3,19 @@
 利用 Python 实现桌面动态展示键盘
 
 当前简单 p 了几张图片用于展示，后续可以自行优化
-### 1. 首先安装依赖
+
+### 1. 效果图
+![效果1](images/show1.png)
+---
+![效果2](images/show2.png)
+
+### 2. 首先安装依赖
 建议创建虚拟环境，避免环境影响
 ```bash
 pip install -r requirements.txt 
 ```
 
-### 2. 执行程序
+### 3. 执行程序
 直接 `python main.py` 启动即可
 
 ---
