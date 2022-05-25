@@ -4,6 +4,8 @@
 
 当前简单 p 了几张图片用于展示，后续可以自行优化
 
+当前图片素材在`images`中，含有原 psd 文件`template.psd`
+
 ### 1. 效果图
 ![效果1](images/show1.png)
 ---
